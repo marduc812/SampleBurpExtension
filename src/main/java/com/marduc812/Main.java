@@ -5,7 +5,6 @@ import burp.api.montoya.MontoyaApi;
 import burp.api.montoya.logging.Logging;
 import burp.api.montoya.persistence.PersistedObject;
 
-import javax.swing.*;
 
 public class Main implements BurpExtension{
 
